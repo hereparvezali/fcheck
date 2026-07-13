@@ -6,7 +6,7 @@ license = "MIT"
 description = "Cool tool for checking enabled and disabled features of a specified crate within a cargo project"
 repository = "https://github.com/urparvezali/fcheck"
 readme = "readme.md"
-keywords = ["cli", "tool", "feature", "check", "cargo", "checking", "rust", "project"]
+keywords = ["cli", "tool", "feature", "check", "cargo" ]
 categories = ["command-line-utilities", "development-tools"]
 
 
